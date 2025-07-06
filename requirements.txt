@@ -1,0 +1,13 @@
+fastapi                      
+uvicorn                      
+pytesseract                  
+pillow                       
+torch                        
+torchvision                  
+opencv-python-headless       
+numpy                        
+python-multipart             
+python-dotenv               
+motor                        
+rapidfuzz                   
+email-validator              
